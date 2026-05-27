@@ -22,7 +22,7 @@
 
 #### 🍰 «Торты на заказ» (SPA)
 > Клиентская часть на Angular: роутинг, компонентная архитектура.  
-> 🔗 [Посмотреть код](https://github.com/TayaTonkih/cakes) | 🌐 [Демо](https://TayaTonkih.github.io/cakes/)
+> 🔗 [Посмотреть код](https://github.com/TayaTonkih/Project_Tonkih_6205) | 🌐 [Демо](https://TayaTonkih.github.io/cakes/)
 
 #### 🏨 АИС учёта проживающих
 > Проектирование реляционной БД (PostgreSQL), UML и BPMN-диаграммы  
