@@ -1,1 +1,42 @@
-# TayaTonkih-TayaTonkih
+# 👋 Привет, я Таисия!
+
+### 🎓 Frontend Developer • Angular • TypeScript
+
+> Студентка 4 курса Самарского университета им. Королёва.  
+> Специализируюсь на разработке современных SPA-приложений.
+
+---
+
+### 🚀 Мои навыки
+
+| Категория | Технологии |
+|-----------|-----------|
+| 💻 Языки | TypeScript, Python, C#, HTML/CSS |
+| ⚙️ Фреймворки | Angular, Bootstrap, Git/GitHub |
+| 🗄️ Базы данных | PostgreSQL, MySQL |
+| 🧠 Computer Science | ООП, проектирование БД, UML, BPMN, REST API |
+
+---
+
+### 💼 Проекты
+
+#### 🍰 «Торты на заказ» (SPA)
+> Клиентская часть на Angular: роутинг, компонентная архитектура, интеграция с REST API  
+> 🔗 [Посмотреть код](ссылка-на-репозиторий) | 🌐 [Демо](ссылка-на-сайт)
+
+#### 🏨 АИС учёта проживающих
+> Проектирование реляционной БД (PostgreSQL), UML и BPMN-диаграммы  
+> 🔗 [Посмотреть код](ссылка-на-репозиторий)
+
+---
+
+### 📫 Контакты
+
+[![Email](https://img.shields.io/badge/Email-taya.tonkih@mail.ru-pink?style=for-the-badge&logo=gmail)](mailto:taya.tonkih@mail.ru)
+[![GitHub](https://img.shields.io/badge/GitHub-@TayaTonkih-purple?style=for-the-badge&logo=github)](https://github.com/TayaTonkih)
+
+---
+
+<p align="center">
+  <em>🌸 Всегда учусь новому и ищу интересные проекты для развития!</em>
+</p>
