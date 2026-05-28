@@ -1,9 +1,9 @@
 # 👋 Привет, я Таисия!
 
-### 🎓 Frontend Developer • Angular • TypeScript
+### 🎓 Frontend/Backend Developer
 
 > Студентка 3 курса Самарского университета им. Королёва.  
-> Специализируюсь на разработке современных SPA-приложений.
+> Специализируюсь на разработке современных SPA-приложений + интересуюсь Backend разработкой на C#/Java,Python.
 
 ---
 
@@ -11,7 +11,7 @@
 
 | Категория | Технологии |
 |-----------|-----------|
-| 💻 Языки | TypeScript, Python, C#, HTML/CSS |
+| 💻 Языки | TypeScript, Python, C#/Java, HTML/CSS |
 | ⚙️ Фреймворки | Angular, Bootstrap, Git/GitHub |
 | 🗄️ Базы данных | PostgreSQL, MySQL |
 | 🧠 Computer Science | ООП, проектирование БД, UML, BPMN |
@@ -25,7 +25,8 @@
 > 🔗 [Посмотреть код](https://github.com/TayaTonkih/Project_Tonkih_6205) | 🌐 [Демо](https://TayaTonkih.github.io/cakes/)
 
 #### 🏨 АИС учёта проживающих
-> Проектирование реляционной БД (PostgreSQL), UML и BPMN-диаграммы  
+> Проектирование реляционной БД (PostgreSQL), UML и BPMN-диаграммы
+> Разрабатываю backend-логику на C#  
 
 #### 💜 Моё портфолио
 > Интерактивный сайт-резюме с проектами и контактами  
